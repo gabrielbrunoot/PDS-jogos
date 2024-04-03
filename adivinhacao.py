@@ -47,5 +47,5 @@ def NivelDificuldade():
         tentativas = 8
     else:
         tentativas = 6
-
-54 jogar()
+        
+jogar()
